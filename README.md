@@ -27,7 +27,9 @@ Project Structure
     ├── (tourist place and food pages).html
     ├── style.css
     ├── script.js
-    └── images/
+    ├── icon/
+    ├── images/
+    └── vendor/
 
 Author
 Archana Priyadarshini Mishra
